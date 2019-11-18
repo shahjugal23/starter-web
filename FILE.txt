@@ -1,1 +1,4 @@
 I am in the GIT REPOSITORY
+
+
+I am in the Staging area
