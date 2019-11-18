@@ -15,3 +15,8 @@ Save and close
 
 #THIS TEXT WILL BE IN STAGE AREA
 This is stage AREA
+
+
+# THIS IS A NEE TEXT"
+
+adsnasjnsdlkas
