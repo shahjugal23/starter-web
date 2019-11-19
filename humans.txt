@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+    Jugal -- QA -- Jugal.shah
 # THANKS
 
     <name>
