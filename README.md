@@ -20,3 +20,8 @@ This is stage AREA
 # THIS IS A NEE TEXT"
 
 adsnasjnsdlkas
+
+
+
+#COPYRIGHT NOTICE
+nasdkjfnjkasdnfjknsdkjfnsjkdfnjk
