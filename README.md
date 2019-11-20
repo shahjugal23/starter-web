@@ -1,5 +1,5 @@
-#ADDING LINE IN MASTER FOR REBASING
-Rebasing example.
+#ADDING LINE IN MASTER FOR REBASING EXAMPLE ------------------------------
+Rebasing example. : This file is not updated in the rebase branch. Its updated in Master BRanch.
 
 # Starter Web Repo
 
