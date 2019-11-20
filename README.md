@@ -1,3 +1,6 @@
+#ADDING LINE IN MASTER FOR REBASING
+Rebasing example.
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
