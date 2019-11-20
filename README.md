@@ -1,6 +1,9 @@
 #ADDING LINE IN MASTER FOR REBASING EXAMPLE ------------------------------
 Rebasing example. : This file is not updated in the rebase branch. Its updated in Master BRanch.
 
+
+#ADDING REBASING BRANCH TEXT
+This is txt from rebasebranch
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
