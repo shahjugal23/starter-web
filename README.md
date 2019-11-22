@@ -1,27 +1,2 @@
-# Starter Web Repo
-
-This repository is for showing how Git and GitHub work
-
-## Purpose
-
-Sample website with plenty of files for demos
-
-## Deployments
-alsndladlnasldjlkasd
-
-## Save and close
-Save and close
-
-
-#THIS TEXT WILL BE IN STAGE AREA
-This is stage AREA
-
-
-# THIS IS A NEE TEXT"
-
-adsnasjnsdlkas
-
-
-
-#COPYRIGHT NOTICE
-nasdkjfnjkasdnfjknsdkjfnsjkdfnjk
+# THIS IS THE LATEST BRANCH
+CREATING A NEW BRANCH AND THEN CLONING IT USING CLONE -B TO SEE HOW IT WORKS.
