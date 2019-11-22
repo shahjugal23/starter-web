@@ -1,3 +1,8 @@
+UPDATING IN THE MASTER BRANCH
+
+
+
+
 #ADDING LINE IN MASTER FOR REBASING EXAMPLE ------------------------------
 Rebasing example. : This file is not updated in the rebase branch. Its updated in Master BRanch.
 
