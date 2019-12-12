@@ -1,3 +1,4 @@
 Test git quick start demo
 JBNe
 
+Some new text for stashing example
