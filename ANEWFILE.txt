@@ -5,3 +5,7 @@ I am a new line causing merge conflict.
 =======
 This is a line........
 >>>>>>> Stashed changes
+
+
+
+Keeping the old stuff and adding this line.
