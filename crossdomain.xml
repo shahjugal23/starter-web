@@ -13,5 +13,9 @@
     <allow-http-request-headers-from domain="*" headers="*" secure="false"/>
     -->
 </cross-domain-policy>
+<<<<<<< Updated upstream
 
 <!-- This is a new change to the data!!!-->
+=======
+<!-- Adding some text here to try the stash -->
+>>>>>>> Stashed changes
