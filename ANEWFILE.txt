@@ -1,3 +1,7 @@
 This is a new file
 This is a new line in stash.
+<<<<<<< Updated upstream
 I am a new line causing merge conflict.
+=======
+This is a line........
+>>>>>>> Stashed changes
